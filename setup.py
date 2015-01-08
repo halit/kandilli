@@ -3,6 +3,8 @@ try:
 except ImportError:
     from distutils.core import setup
 
+REQUIREMENTS = [i.strip() for i in open("requirements.txt").readlines()]
+
 config = dict(description='Kandilli last earthquakes api',
             long_description=open('README.md').read(),
             author='Halit Alptekin',
@@ -13,6 +15,7 @@ config = dict(description='Kandilli last earthquakes api',
             version='0.1.0', 
             py_modules=['kandilli'], 
             platforms='any',
-            name='kandilli',)
+            name='kandilli',
+            install_requires=REQUIREMENTS)
 
 setup(**config)
