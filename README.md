@@ -1,2 +1,3 @@
-# kandilli-api
-Kandilli last earthquakes api
+# Kandilli API
+
+Simple kandilli last earthquakes api.
