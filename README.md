@@ -9,7 +9,6 @@ Simple kandilli last earthquakes api.
 # Usage
 
     from kandilli import LastEarthquakes
-    from itertools import islice
     
     api = LastEarthquakes(10)
     print api.data[0]
