@@ -4,6 +4,7 @@
 [![Download format](https://pypip.in/format/kandilli/badge.svg)](https://pypi.python.org/pypi/kandilli/)
 [![Supported Python versions](https://pypip.in/py_versions/kandilli/badge.svg)](https://pypi.python.org/pypi/kandilli/)
 [![License](https://pypip.in/license/kandilli/badge.svg)](https://pypi.python.org/pypi/kandilli/)
+[![Build Status](https://api.travis-ci.org/halitalptekin/kandilli.png)](https://travis-ci.org/halitalptekin/kandilli)
 
 Simple kandilli last earthquakes api.
 
