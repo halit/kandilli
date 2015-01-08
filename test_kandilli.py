@@ -1,7 +1,7 @@
 import unittest
 import datetime
 import random
-from api import LastEarthquakes
+from kandilli import LastEarthquakes
 from itertools import islice
 
 
