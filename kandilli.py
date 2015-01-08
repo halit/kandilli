@@ -4,7 +4,7 @@ Last Earthquakes Api
 import urllib
 from pyquery import PyQuery
 
-__version__ = '0.1.0'
+__version__ = '0.1.1'
 __all__ = ['LastEarthquakes']
 
 DEFAULT_MANY = 10
