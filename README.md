@@ -1,9 +1,9 @@
 # Kandilli API
-[![Latest Version](https://pypip.in/version/kandilli/badge.svg)](https://pypi.python.org/pypi/kandilli/)
-[![Downloads](https://pypip.in/download/kandilli/badge.svg)](https://pypi.python.org/pypi/kandilli/)
-[![Download format](https://pypip.in/format/kandilli/badge.svg)](https://pypi.python.org/pypi/kandilli/)
-[![Supported Python versions](https://pypip.in/py_versions/kandilli/badge.svg)](https://pypi.python.org/pypi/kandilli/)
-[![License](https://pypip.in/license/kandilli/badge.svg)](https://pypi.python.org/pypi/kandilli/)
+[![Latest Version](https://img.shields.io/pypi/v/kandilli.svg)](https://pypi.python.org/pypi/kandilli/)
+[![Downloads](https://img.shields.io/pypi/dm/kandilli.svg)](https://pypi.python.org/pypi/kandilli/)
+[![Download format](https://img.shields.io/pypi/format/kandilli.svg)](https://pypi.python.org/pypi/kandilli/)
+[![Supported Python versions](https://img.shields.io/pypi/pyversions/kandilli.svg)](https://pypi.python.org/pypi/kandilli/)
+[![License](https://img.shields.io/pypi/l/kandilli.svg)](https://pypi.python.org/pypi/kandilli/)
 [![Build Status](https://api.travis-ci.org/halitalptekin/kandilli.png)](https://travis-ci.org/halitalptekin/kandilli)
 
 Simple kandilli last earthquakes api.
